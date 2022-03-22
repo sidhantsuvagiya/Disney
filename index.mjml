@@ -1,0 +1,106 @@
+<mjml>
+  <mj-head>
+    <mj-raw>
+      <meta name="color-scheme" content="light">
+      <meta name="supported-color-schemes" content="light">
+    </mj-raw>
+    <mj-title>Disney+</mj-title>
+    <mj-attributes>
+      <mj-class name="main-heading" line-height="26px" letter-spacing="2px" font-weight="bold" align="center" color="#FFFFFF" font-size="20px" />
+      <mj-class name="main-text" padding-top="0" align="center" line-height="22px" color="#FFFFFF" font-size="14px" />
+      <mj-button padding-top="8px" width="200px" background-color="#0072D2" padding="12px" font-weight="bold" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body width="400px">
+
+    <!-- Hero Section -->
+
+    <mj-section padding="0px" background-color="#090B13">
+      <mj-column>
+        <mj-image padding="0px" src="https://i.ibb.co/BKGr09G/disneygif223.gif" alt="Disney_Logo" />
+        <mj-image padding="0px 0px 10px 0px" src="https://i.ibb.co/9TnLcCT/heroimg223.png" alt="Hero_image" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Center Section -->
+
+    <mj-section background-color="#090B13">
+      <mj-column>
+        <mj-text mj-class="main-heading"> WELCOME TO DISNEY+ </mj-text>
+        <mj-text mj-class="main-text">
+          Disney, Pixar, Marvel, Star Wars, and National Geographic are all at your fingertips.
+        </mj-text>
+        <mj-button> STREAM NOW </mj-button>
+
+        <mj-text padding="20px" align="center">
+          <img style="padding:5px" src="https://i.ibb.co/LCmZwnD/1avenger2233.png" alt="avengers" width="100px">
+          <img style="padding:5px" src="https://i.ibb.co/TWgb545/2beuaty2233.png" alt="Beauty And the beast" width="100px">
+          <img style="padding:5px" src="https://i.ibb.co/ynG8Zzs/Roughe233.png" alt="Rogye Trip" width="100px">
+          <img style="padding:5px" src="https://i.ibb.co/vk0hf4L/Onwaed2233.png" alt="Onward" width="100px">
+          <img style="padding:5px" src="https://i.ibb.co/Snr6xq6/jessie2233.png" alt="Jessie" width="100px">
+        </mj-text>
+
+        <mj-text mj-class="main-heading"> ALL THE BEST STORIES </mj-text>
+        <mj-text padding-bottom="20px" mj-class="main-text">
+          Never-before-seen Originals. New releases. Nostalgic classics. Now in one place.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Blue Section -->
+
+    <mj-section background-color="#142D55">
+      <mj-column>
+
+        <mj-image padding-bottom="20px" padding="15px 0px" src="https://i.ibb.co/t41gFt2/Mobile223.png" alt="Mobile_image" />
+        <mj-text letter-spacing="1px" mj-class="main-heading">Unlimited Downloads </mj-text>
+        <mj-text mj-class="main-text">Take any of your favorites with you on up to 10 devices.</mj-text>
+
+        <!-- Center Image -->
+        <mj-image padding="20px 0px" src="https://i.ibb.co/yY81cGf/tvimgg1122.png" alt="TV_Image" />
+
+        <mj-text letter-spacing="1px" mj-class="main-heading"> Premium For Everyone </mj-text>
+        <mj-text mj-class="main-text"> Stream on 4 devices at once, ad-free, with select titles in 4K Ultra HD. It’s all included. </mj-text>
+        <mj-button> STREAM NOW </mj-button>
+
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer Start -->
+
+    <mj-section background-color="#090B13">
+      <mj-column padding-top="15px">
+
+        <mj-text color="#ffffff" font-weight="bold" align="center" font-size="17px">
+          Follow Us
+        </mj-text>
+
+        <!-- Social Icon -->
+        <mj-social padding="10px 0px" icon-size="40px" mode="horizontal">
+          <mj-social-element padding="0 8px" alt="ig-icon" href="https://example.com" src="https://i.ibb.co/23f87b9/ig322.png"></mj-social-element>
+          <mj-social-element padding="0 8px" alt="ig-icon" href="https://example.com" src="https://i.ibb.co/Cbb4MMg/fb322.png"></mj-social-element>
+          <mj-social-element padding="0 8px" alt="ig-icon" href="https://example.com" src="https://i.ibb.co/bBf4R9P/tw322.png"></mj-social-element>
+        </mj-social>
+        <mj-text font-size="12px" line-height="18px" padding-top="10px" color="#ffffff" align="center">
+          For more information, please visit our <a style="color:#ffffff;" href="#"> Help Center. </a>
+        </mj-text>
+
+        <!-- Divider -->
+        <mj-divider padding="10px 0px" border-width="2px" border-color="#3F4046" />
+
+        <!-- Logos -->
+        <mj-image padding="0px" src="https://i.ibb.co/wL02WGz/logo322.png" alt="Logos" />
+        <mj-text padding="20px 10%" color="#C0C0C0" font-size="10px" line-height="16px">
+          This email was sent to: hello@SmilesDavis.yeah. Please do not reply to this email as this address is not monitored. This email contains an advertisement from: Disney Streaming Services, LLC, 1211 Avenue of Americas, New York, NY 10036.<br><br>
+          If you do not want to receive future marketing email messages from Disney+, please <a style=" color:#C0C0C0;font-weight:bold; " href="#">opt-out </a><br><br>
+          © 2021 Disney and its related entities. All Rights Reserved.
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer End -->
+
+  </mj-body>
+</mjml>
